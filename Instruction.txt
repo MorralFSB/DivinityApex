@@ -1,0 +1,6 @@
+Open Launcher | Открыть лаунчер
+Enter key | Введите ключ активации
+Click F4
+Open Steam / Origin | Открыть Steam / Origin
+Open Apex | Открыть Apex
+Open the menu on Insert (Ins) | Открыть меню нажатием Insert (Ins)
